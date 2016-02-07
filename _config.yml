@@ -1,7 +1,7 @@
 name: VirtualViewProductions
 favicon: null
-layout_spectrum: 0.7656921846792102
-typography_spectrum: 0.4020871026441455
+layout_spectrum: 0
+typography_spectrum: 0.14148
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.500837936764583
+    - '#ffffff'
+    - '#a6a7ab'
+    - '#6d6e70'
+    - '#cdced0'
+    - '#292728'
+  brandStrength: 0.5
   lightness: 0.6686037709005177
-  saturation: 0.3643859524745494
+  saturation: 0.375
   rhythmicContrast: 0.5000294104684144
 purpose: []
